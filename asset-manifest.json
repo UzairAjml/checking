@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UzairAjml/checking/static/css/main.a617e044.chunk.css",
+    "main.js": "/UzairAjml/checking/static/js/main.190652ce.chunk.js",
+    "main.js.map": "/UzairAjml/checking/static/js/main.190652ce.chunk.js.map",
+    "runtime-main.js": "/UzairAjml/checking/static/js/runtime-main.53541951.js",
+    "runtime-main.js.map": "/UzairAjml/checking/static/js/runtime-main.53541951.js.map",
+    "static/js/2.c528f0e5.chunk.js": "/UzairAjml/checking/static/js/2.c528f0e5.chunk.js",
+    "static/js/2.c528f0e5.chunk.js.map": "/UzairAjml/checking/static/js/2.c528f0e5.chunk.js.map",
+    "static/js/3.e5ef26b3.chunk.js": "/UzairAjml/checking/static/js/3.e5ef26b3.chunk.js",
+    "static/js/3.e5ef26b3.chunk.js.map": "/UzairAjml/checking/static/js/3.e5ef26b3.chunk.js.map",
+    "index.html": "/UzairAjml/checking/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/UzairAjml/checking/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c528f0e5.chunk.js.LICENSE.txt": "/UzairAjml/checking/static/js/2.c528f0e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53541951.js",
+    "static/js/2.c528f0e5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.190652ce.chunk.js"
+  ]
+}
